@@ -3,3 +3,8 @@
   margin: 0;
   padding: 0;
 }
+body h2 {
+  text-align: center;
+  color: green;
+  font-size: 32px;
+}
