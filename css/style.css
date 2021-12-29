@@ -3,8 +3,20 @@
   margin: 0;
   padding: 0;
 }
-body h2 {
-  text-align: center;
-  color: green;
-  font-size: 32px;
+.container {
+  width: 80%;
+  height: 200px;
+  border: 1px solid yellowgreen;
+  margin: 0 auto;
+}
+.title h1 {
+  background-color: green;
+  color: white;
+  padding: 10px;
+}
+.parrafo {
+  background-color: slateblue;
+}
+.parrafo p {
+  color: white;
 }
